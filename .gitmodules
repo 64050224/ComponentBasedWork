@@ -4,3 +4,12 @@
 [submodule "ex1-ellipseRectangle"]
 	path = ex1-ellipseRectangle
 	url = https://github.com/64050224/CPB_EllipseRectangle
+[submodule "ex3-CustomerMail"]
+	path = ex3-CustomerMail
+	url = https://github.com/64050224/custmailwofactory
+[submodule "ex3-server-no-facade"]
+	path = ex3-server-no-facade
+	url = https://github.com/64050224/serverwofacade
+[submodule "ex3-football-observer"]
+	path = ex3-football-observer
+	url = https://github.com/64050224/footballObserverDesign
