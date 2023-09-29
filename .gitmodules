@@ -1,0 +1,6 @@
+[submodule "ex1-customerMail"]
+	path = ex1-customerMail
+	url = https://github.com/64050224/custmailappquestion
+[submodule "ex1-ellipseRectangle"]
+	path = ex1-ellipseRectangle
+	url = https://github.com/64050224/CPB_EllipseRectangle
