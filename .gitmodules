@@ -19,3 +19,6 @@
 [submodule "ex5-football-bound"]
 	path = ex5-football-bound
 	url = https://github.com/64050224/football-observer-using-bound
+[submodule "ex6-student-database-jpa"]
+	path = ex6-student-database-jpa
+	url = https://github.com/64050224/StudentDatabaseWithJPA
