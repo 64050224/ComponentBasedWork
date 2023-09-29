@@ -22,3 +22,6 @@
 [submodule "ex6-student-database-jpa"]
 	path = ex6-student-database-jpa
 	url = https://github.com/64050224/StudentDatabaseWithJPA
+[submodule "ex7-department-db"]
+	path = ex7-department-db
+	url = https://github.com/64050224/departmentDB
