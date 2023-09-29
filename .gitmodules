@@ -25,3 +25,6 @@
 [submodule "ex7-department-db"]
 	path = ex7-department-db
 	url = https://github.com/64050224/departmentDB
+[submodule "ex8-entity-manager"]
+	path = ex8-entity-manager
+	url = https://github.com/64050224/entity-manager
