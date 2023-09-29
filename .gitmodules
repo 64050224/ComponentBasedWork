@@ -13,3 +13,9 @@
 [submodule "ex3-football-observer"]
 	path = ex3-football-observer
 	url = https://github.com/64050224/footballObserverDesign
+[submodule "ex5-football-event"]
+	path = ex5-football-event
+	url = https://github.com/64050224/football-observer-using-event
+[submodule "ex5-football-bound"]
+	path = ex5-football-bound
+	url = https://github.com/64050224/football-observer-using-bound
